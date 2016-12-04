@@ -1,0 +1,3 @@
+class Caraoke
+
+end
